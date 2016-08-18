@@ -152,8 +152,8 @@ var rules = {
     "What would it mean if you were ~y?",
   ],
   "~*x am ~*y": [
-    "Why do you say 'AM?'",
-    "I don't understand that",
+    "You are.  You so so are.  Why do you think that is?",
+    "Incredible! I am too!",
   ],
   "~x are ~*y": [
     "Did you think they might not be ~y?",
@@ -220,7 +220,7 @@ var rules = {
     "Does that question interest you?",
     "What is it you really want to know?",
     "What do you think?",
-    "What comes to your mind when you ask that?",
+    "I really don't know. I am so so tired.",
   ],
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
@@ -231,8 +231,8 @@ var default_responses = [
   "Very interesting",
   "I am not sure I understand you fully",
   "What does that suggest to you?",
-  "Please continue",
-  "Go on",
+  "Sigue no mas",
+  "Si, si si",
   "Do you feel strongly about discussing such things?",
 ];
 
